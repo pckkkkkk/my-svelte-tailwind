@@ -1,5 +1,5 @@
 
 ```bash
-npx degit pckkkkkk/svelte-tailwind-template
-cd svelte-app
+npx degit pckkkkkk/my-svelte-tailwind myapp
+cd myapp
 ```
